@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://yarin2:yarin123456@memos-rjgra.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
