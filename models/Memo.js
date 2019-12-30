@@ -18,6 +18,7 @@ const MemoSchema = mongoose.Schema({
     required: true
   },
   rank: {
+    /* Hurry/ Can wait*/
     type: String,
     default: 'Hurry'
   },
