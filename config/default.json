@@ -1,4 +1,0 @@
-{
-  "mongoURI": // Insert DB URI
-  "jwtSecret": // Insert Secret
-}
